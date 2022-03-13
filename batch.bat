@@ -1,0 +1,1 @@
+"c:\Users\Luisf\AppData\Local\Programs\Python\Python39\python.exe" "C:\Users\Luisf\Documents\FantasyP\database_control.py"
